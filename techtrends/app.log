@@ -1,0 +1,23 @@
+werkzeug:09/03/2021 05:20:09 PM,  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+werkzeug:09/03/2021 05:20:09 PM,  * Running on http://192.168.1.20:3111/ (Press CTRL+C to quit)
+werkzeug:09/03/2021 05:20:13 PM, 127.0.0.1 - - [03/Sep/2021 17:20:13] "GET / HTTP/1.1" 200 -
+werkzeug:09/03/2021 05:20:13 PM, 127.0.0.1 - - [03/Sep/2021 17:20:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app:09/03/2021 05:20:15 PM, The "About Us" Page is retrieved
+werkzeug:09/03/2021 05:20:15 PM, 127.0.0.1 - - [03/Sep/2021 17:20:15] "GET /about HTTP/1.1" 200 -
+werkzeug:09/03/2021 05:20:15 PM, 127.0.0.1 - - [03/Sep/2021 17:20:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug:09/03/2021 05:20:17 PM, 127.0.0.1 - - [03/Sep/2021 17:20:17] "GET / HTTP/1.1" 200 -
+werkzeug:09/03/2021 05:20:17 PM, 127.0.0.1 - - [03/Sep/2021 17:20:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app:09/03/2021 05:20:17 PM, Article "2020 CNCF Annual Report" retrieved!
+werkzeug:09/03/2021 05:20:17 PM, 127.0.0.1 - - [03/Sep/2021 17:20:17] "GET /1 HTTP/1.1" 200 -
+werkzeug:09/03/2021 05:20:17 PM, 127.0.0.1 - - [03/Sep/2021 17:20:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug:09/03/2021 05:20:18 PM, 127.0.0.1 - - [03/Sep/2021 17:20:18] "GET / HTTP/1.1" 200 -
+werkzeug:09/03/2021 05:20:18 PM, 127.0.0.1 - - [03/Sep/2021 17:20:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app:09/03/2021 05:20:21 PM, Article "test1" retrieved!
+werkzeug:09/03/2021 05:20:21 PM, 127.0.0.1 - - [03/Sep/2021 17:20:21] "GET /9 HTTP/1.1" 200 -
+werkzeug:09/03/2021 05:20:21 PM, 127.0.0.1 - - [03/Sep/2021 17:20:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug:09/03/2021 05:20:22 PM, 127.0.0.1 - - [03/Sep/2021 17:20:22] "GET / HTTP/1.1" 200 -
+werkzeug:09/03/2021 05:20:22 PM, 127.0.0.1 - - [03/Sep/2021 17:20:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug:09/03/2021 05:20:26 PM, 127.0.0.1 - - [03/Sep/2021 17:20:26] "[33mGET /asdasd HTTP/1.1[0m" 404 -
+werkzeug:09/03/2021 05:20:29 PM, 127.0.0.1 - - [03/Sep/2021 17:20:29] "GET / HTTP/1.1" 200 -
+werkzeug:09/03/2021 05:20:29 PM, 127.0.0.1 - - [03/Sep/2021 17:20:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -

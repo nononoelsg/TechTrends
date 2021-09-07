@@ -1,0 +1,9 @@
+apiVersion: v1 
+name: techtrends
+description: Install techtrends
+keywords:
+- techtrends
+version: 1.0.0
+maintainers:
+- name: Noel.Lou 
+  email: noel.louyl@gmail.com
