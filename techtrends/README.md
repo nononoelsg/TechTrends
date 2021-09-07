@@ -1,6 +1,6 @@
 
 
-# TechTreds Web Application V1
+# TechTreds Web Application V1 update with github Action
 
 This is a Flask application that lists the latest articles within the cloud-native ecosystem.
 
