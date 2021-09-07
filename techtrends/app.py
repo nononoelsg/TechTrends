@@ -32,7 +32,7 @@ def setup_logger():
         else logging.DEBUG
     )
 
-    fileHandler = logging.FileHandler('app.log')
+    fileHandler = logging.FileHandler(filename='app.log')
     fileHandler.setLevel(logging.DEBUG)
 
     stdout_handler = logging.StreamHandler(sys.stdout)  # STDOUT handler
